@@ -1,3 +1,1 @@
-document.querySelector('.btn').addEventListener('click', () => {
-    alert('oi');
-});
+/* projeto livro abertura de página */
